@@ -1,0 +1,9 @@
+2023-07-07T14:46:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_items() in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code:20
+Stack trace:
+#0 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(310): send_order_details_email(87)
+#1 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-data-store-cpt.php(103): do_action('woocommerce_new...', 87, Object(WC_Order))
+#4 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(186): WC_Order_Data_Store_CPT->create(Object(WC_Order))
+#5 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/abstracts/abstract- in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code in Zeile 20
+

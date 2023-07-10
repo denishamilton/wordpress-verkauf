@@ -1,0 +1,36 @@
+2023-07-06T11:47:44+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code:8
+Stack trace:
+#0 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(310): send_simple_product_details_email(65)
+#1 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-data-store-cpt.php(103): do_action('woocommerce_new...', 65, Object(WC_Order))
+#4 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(186): WC_Order_Data_Store_CPT->create(Object(WC_Order))
+#5 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/abstr in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code in Zeile 8
+
+2023-07-06T11:48:16+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code:8
+Stack trace:
+#0 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(310): send_simple_product_details_email(66)
+#1 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-data-store-cpt.php(103): do_action('woocommerce_new...', 66, Object(WC_Order))
+#4 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(186): WC_Order_Data_Store_CPT->create(Object(WC_Order))
+#5 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/abstr in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code in Zeile 8
+
+2023-07-06T11:48:47+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code:8
+Stack trace:
+#0 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(310): send_simple_product_details_email(67)
+#1 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-data-store-cpt.php(103): do_action('woocommerce_new...', 67, Object(WC_Order))
+#4 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(186): WC_Order_Data_Store_CPT->create(Object(WC_Order))
+#5 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/abstr in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code in Zeile 8
+
+2023-07-06T11:49:07+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code:8
+Stack trace:
+#0 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(310): send_simple_product_details_email(68)
+#1 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-data-store-cpt.php(103): do_action('woocommerce_new...', 68, Object(WC_Order))
+#4 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(186): WC_Order_Data_Store_CPT->create(Object(WC_Order))
+#5 /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/woocommerce/includes/abstr in /home/hamden/denysportfolio.site/itnshop-verkauf/wp-content/plugins/code-snippets/php/snippet-ops.php(575) : eval()'d code in Zeile 8
+
